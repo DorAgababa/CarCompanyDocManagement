@@ -1,0 +1,157 @@
+Doucument name: dodo
+Doc ID: 0
+Number Of Words: 8
+company name : YUval
+owner name : 
+cash bank : 150
+
+Doucument name: dodo
+Doc ID: 1
+Number Of Words: 10
+company name : AHMED
+owner name : 
+cash bank : 120
+
+Doucument name: Doc2Doc
+Doc ID: 2
+Number Of Words: 4
+company name : DorsFOrm
+owner name : shalon
+cash bank : 2000
+
+Doucument name: Doc1car
+Doc ID: 3
+Number Of Words: 2
+bank Number : 22
+branch number : 100
+NumberOfDocs : 11
+Print Date : 24 - MAY - 1999
+Company Name: DD
+Owner Name: dor
+Owner Name: 1000
+Location Name: ISRAEL
+
+Doucument name: Doc2
+Doc ID: 4
+Number Of Words: 3
+bank Number : 23
+branch number : 103
+NumberOfDocs : 11
+Print Date : 24 - MAY - 1999
+Company Name: DG
+Owner Name: dod
+Owner Name: 1000
+Location Name: ISRAEL
+
+Doucument name: Doc2car
+Doc ID: 5
+Number Of Words: 3
+bank Number : 23
+branch number : 103
+NumberOfDocs : 11
+Print Date : 24 - MAY - 1999
+Company Name: DG
+Owner Name: dod
+Owner Name: 1000
+Location Name: ISRAEL
+
+Doucument name: Doc3car
+Doc ID: 6
+Number Of Words: 4
+bank Number : 99
+branch number : 701
+NumberOfDocs : 11
+Print Date : 24 - MAY - 1999
+Company Name: LK
+Owner Name: bod
+Owner Name: 1000
+Location Name: ISRAEL
+
+Doucument name: Doc4car
+Doc ID: 7
+Number Of Words: 4
+bank Number : 89
+branch number : 103
+NumberOfDocs : 11
+Print Date : 24 - MAY - 1999
+Company Name: POP
+Owner Name: mmm
+Owner Name: 1000
+Location Name: ISRAEL
+
+Doucument name: Doc5car
+Doc ID: 8
+Number Of Words: 9
+bank Number : 33
+branch number : 100
+NumberOfDocs : 11
+Print Date : 24 - MAY - 2000
+
+Doucument name: Doc1BankDoc
+Doc ID: 9
+Number Of Words: 9
+bank Number : 39
+branch number : 301
+NumberOfDocs : 11
+Print Date : 24 - OCTOBER - 1999
+
+Doucument name: Doc2BankDoc
+Doc ID: 10
+Number Of Words: 10
+bank Number : 66
+branch number : 234
+NumberOfDocs : 11
+Print Date : 24 - OCTOBER - 2001
+
+Doucument name: Doc3BankDoc
+Doc ID: 11
+Number Of Words: 77
+bank Number : 77
+branch number : 387
+NumberOfDocs : 11
+Print Date : 24 - OCTOBER - 1999
+
+Doucument name: Doc4BankDoc
+Doc ID: 12
+Number Of Words: 9
+bank Number : 68
+branch number : 325
+NumberOfDocs : 11
+Print Date : 24 - MAY - 1900
+
+Doucument name: Doc5BankDoc
+Doc ID: 13
+Number Of Words: 17
+bank Number : 33
+branch number : 111
+NumberOfDocs : 11
+Print Date : 24 - OCTOBER - 1999
+
+Doucument name: Doc1CompanyDoc
+Doc ID: 14
+Number Of Words: 2
+company name : DorsFOrm
+owner name : Dor
+cash bank : 1000
+
+Doucument name: Doc1CompanyDoc
+Doc ID: 15
+Number Of Words: 2
+company name : DorsFOrm
+owner name : kobi
+cash bank : 3000
+
+Doucument name: Doc1CompanyDoc
+Doc ID: 16
+Number Of Words: 2
+company name : DorsFOrm
+owner name : matan
+cash bank : 4000
+
+Doucument name: Doc1CompanyDoc
+Doc ID: 17
+Number Of Words: 2
+company name : DorsFOrm
+owner name : david
+cash bank : 5000
+
