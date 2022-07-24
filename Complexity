@@ -1,0 +1,4 @@
+chanlanges that get creative solution :
+In class MenuManager in AddAllFromTXT there is need to read everything from input.txt into Document container. 
+For easy and right work we used >> operator of each document type, The problem was the printing of the operator >> , we deal with that with system("CLS")
+The complexity of everything was harder in MenuManager cause there is 3 option of each Document, In every function we had to recognize the type of document.
